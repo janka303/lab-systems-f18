@@ -1,0 +1,38 @@
+h1{
+	text-align: center;
+	font-family: sans-serif;
+}
+
+.exp{
+	text-align: center;
+	font-family: sans-serif;
+}
+
+img {
+    
+    float: left;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+}
+
+.wrap{
+	padding: 15px; 
+	float: left;
+	margin-top: -40px; 
+	margin-bottom: 50px;
+
+
+}
+
+p{
+	margin-top: 20px;
+	line-height: 30px;
+	padding: 100px;
+	margin-left: 500px;
+
+}
+
+.tree{
+	padding-left: 250px;
+}
