@@ -1,16 +1,43 @@
 h1{
 	text-align: center;
 	font-family: sans-serif;
+	background: pink;
+	padding: 10px;
+	margin-bottom: 0px;
+	margin-top: 0px;
 }
 
+.nav{
+	
+	font-family: sans-serif;
+	background: grey;
+	padding-top: 10px;
+	padding-bottom: 60px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-style: initial;
+
+}
 .exp{
 	text-align: center;
 	font-family: sans-serif;
+	padding:10px;
+	margin-left: 0.5px;
+	background: pink;
+	margin-top: 0px;
+	margin-right: 0.5px;
 }
 
 img {
     
     float: left;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+}
+
+iframe{
+	float: left;
     border-style: solid;
     border-color: black;
     border-width: 5px;
@@ -29,10 +56,28 @@ p{
 	margin-top: 20px;
 	line-height: 30px;
 	padding: 100px;
-	margin-left: 500px;
+	margin-left: 450px;
+	margin-right: 200px;
 
 }
 
 .tree{
-	padding-left: 250px;
+	padding-left: 150px;
+	margin-top: 50px;
+	font-family: "Helvetica", sans-serif;
+	margin-bottom: 10px;
 }
+
+.p2{
+	padding-left: 350px;
+}
+
+.p3{
+	padding-left: 400px;
+}
+
+
+
+
+
+
