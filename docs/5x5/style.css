@@ -11,11 +11,13 @@ h1{
 	
 	font-family: sans-serif;
 	background: grey;
-	padding-top: 10px;
-	padding-bottom: 60px;
+	/*padding-top: 10px;
+	padding-bottom: 30px;
 	margin-top: 0px;
 	margin-bottom: 0px;
 	font-style: initial;
+	text-align: left;
+	margin-left: 0px;*/
 
 }
 .exp{
