@@ -1,0 +1,35 @@
+*{
+	box-sizing: border-box;
+}
+
+body{
+	margin: 0;
+}
+
+.main-container{
+	display: flex;
+	/*border: 10px solid red;*/
+	text-align: center;
+	margin: 0 auto;
+	max-width: 600px;
+}
+
+.main-container nav {
+	width: 200px;
+	padding: 10px;
+	flex-shrink: 0;
+	background: lightblue;
+	margin-top: 20px;
+}
+
+.main-container .content{
+	padding: 10px;
+}
+
+.columns{
+	display: flex;
+}
+
+.column{
+	width: 50%;
+}
